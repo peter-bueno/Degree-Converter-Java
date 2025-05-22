@@ -36,16 +36,15 @@ Upon running the program, you'll see:
 
 ### 🖥 Example
 ```
----Conversor de Graus---
-1. Convert to Fahrenheit
-2. Convert to Celsius
+---Conversor de Grau---
+1.Converter para Fahrenheit
+2.Converter para Celsius
 1
-Enter the temperature in Celsius: 30
-30.00º Celsius is 86.00ºF
+Digite o valor em Cº para converter: 30
+Valor de 30.00º Celsius para Fahrenheit é: 86.00ºF
 ```
 
 ## 📜 License
 This project is open-source and can be modified freely.
 
 If you want to improve or add new features, feel free to **fork the repository** and contribute!
-```
